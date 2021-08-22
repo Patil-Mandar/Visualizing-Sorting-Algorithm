@@ -1,0 +1,31 @@
+Quick Sort
+
+Quick Sort also known as Divide and conquer algorithm as it picks an element as pivot and partitions the given data
+collection around the picked pivot. Inside Quick Sort major processing is done by Partition function, where we keep the
+track of last smallest element (w.r.t. Pivot element) of data collection with a variable and we keep the track of first
+greatest element (w.r.t. Pivot element) of data collection by using another variable. And after every pass Pivot element
+is brought to its sorted position i.e., all, elements on its left are smaller than it and all elements on right are
+greater. Further the data collection is divided into two fragments and again the quick sort algorithm is applied i.e.,
+it calls itself and therefore it is a recursive algorithm.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Max 24 Lines(end)

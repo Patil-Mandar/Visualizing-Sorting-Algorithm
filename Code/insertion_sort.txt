@@ -1,0 +1,29 @@
+Insertion Sort
+
+
+In case of Insertion Sort, the algorithm builds final sorting list by transferring one element at a time and the
+algorithm requires maximum n-1 passes and (n-1)/4n comparisons for a data collection to get sorted. It considers
+the 1st element of the data collection as sorted, then all other elements are one by one compared with that element
+and every element is inserted as per its value in the sorted list. If compared to bubble sort, Insertion sort is
+twice as fast as it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Max 24 Lines(end)

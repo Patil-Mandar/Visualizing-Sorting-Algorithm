@@ -1,0 +1,8 @@
+Bubble Sort
+
+When we consider a data collection to be sorted using Bubble Sort, this implies that algorithm will require maximum n-1
+passes and [n(n-1)]/2 comparisons for a data collection to get sorted. The algorithm sorts a data collection in such a
+way that at 1st pass the greatest element in the collection reaches at end position, similarly for pass 2, 2nd greatest
+element reaches at 2nd last position in the collection and likewise other elements are sorted. The movement of elements
+is done by pair to pair checking of elements and if they are in undesired order they are shuffled. It is more suitable
+for small lists.
