@@ -3,7 +3,8 @@
 
 Many people while starting the journey of programing face sorting algorithm difficult to understand. That’s the reason why most of them leave it. So, we have created a programme to visualize some of these sorting algorithms using python and tkinter module.
 
-#### run the /code/main.py file to start the program
+### How to run
+run the /code/main.py file to start the program
 
 ## System Architecture
 ![image](https://user-images.githubusercontent.com/80695146/151689918-61a6f844-b108-4ee2-ae0a-833b96bd16ec.png)
